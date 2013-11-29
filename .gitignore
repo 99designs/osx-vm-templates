@@ -4,3 +4,4 @@ packer_cache
 *.box
 AutoPartition-*
 output-vmware
+/packer/template.json
